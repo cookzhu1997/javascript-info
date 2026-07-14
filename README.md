@@ -39,6 +39,9 @@ zh.javascript.info study notes
 - [ ] 3.1 在浏览器中调试
 - [ ] 3.2 代码风格
 - [ ] 3.3 注释
+- [ ] 3.4 忍者代码
+- [ ] 3.5 使用Mocha进行自动化测试
+- [ ] 3.6 Pliyfill和转译器
 
 ### 4. 对象：基础知识 (Objects: The Basics)
 - [ ] 4.1 对象
@@ -47,6 +50,8 @@ zh.javascript.info study notes
 - [ ] 4.4 对象方法，"this"
 - [ ] 4.5 构造函数和操作符 "new"
 - [ ] 4.6 可选链 "?."
+- [ ] 4.7 symbol 类型
+- [ ] 4.8 对象 —— 原始值转换
 
 ### 5. 数据类型 (Data Types)
 - [ ] 5.1 原始类型的方法
@@ -72,6 +77,8 @@ zh.javascript.info study notes
 - [ ] 6.7 装饰器模式和转发，call/apply
 - [ ] 6.8 函数绑定（bind）
 - [ ] 6.9 箭头函数回顾
+- [ ] 6.10 函数绑定
+- [ ] 6.11 深入理解箭头函数
 
 ### 7. 对象属性配置 (Object Properties Configuration)
 - [ ] 7.1 属性标志和属性描述符
@@ -114,6 +121,14 @@ zh.javascript.info study notes
 - [ ] 13.1 模块简介
 - [ ] 13.2 导出和导入
 - [ ] 13.3 动态导入
+
+### 13. 杂项
+- [ ] 14.1 Proxy 和 Reflect
+- [ ] 14.2 Eval：执行代码字符串
+- [ ] 14.3 柯里化（Currying）
+- [ ] 14.4 Reference Type
+- [ ] 14.5 BigInt
+- [ ] 14.6 Unicode —— 字符串内幕
 
 ---
 
