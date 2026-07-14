@@ -10,10 +10,10 @@ zh.javascript.info study notes
 ## 📚 第一部分：JavaScript 编程语言
 
 ### 1. 简介 (Introduction)
-- [ ] 1.1 JavaScript 简介
-- [ ] 1.2 手册与规范
-- [ ] 1.3 代码编辑器
-- [ ] 1.4 开发者控制台
+- [x] 1.1 JavaScript 简介
+- [x] 1.2 手册与规范
+- [x] 1.3 代码编辑器
+- [x] 1.4 开发者控制台
 
 ### 2. JavaScript 基础知识 (JavaScript Fundamentals)
 - [ ] 2.1 Hello, world!
