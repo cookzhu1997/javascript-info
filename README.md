@@ -16,14 +16,14 @@ zh.javascript.info study notes
 - [x] 1.4 开发者控制台
 
 ### 2. JavaScript 基础知识 (JavaScript Fundamentals)
-- [ ] 2.1 Hello, world!
-- [ ] 2.2 代码结构
-- [ ] 2.3 现代模式, "use strict"
-- [ ] 2.4 变量
-- [ ] 2.5 数据类型
-- [ ] 2.6 交互：alert, prompt 和 confirm
-- [ ] 2.7 类型转换
-- [ ] 2.8 基础运算符，数学运算
+- [x] 2.1 Hello, world!
+- [x] 2.2 代码结构
+- [x] 2.3 现代模式, "use strict"
+- [x] 2.4 变量
+- [x] 2.5 数据类型
+- [x] 2.6 交互：alert, prompt 和 confirm
+- [x] 2.7 类型转换
+- [x] 2.8 基础运算符，数学运算
 - [ ] 2.9 值的比较
 - [ ] 2.10 条件分支：if 和 '?'
 - [ ] 2.11 逻辑运算符
